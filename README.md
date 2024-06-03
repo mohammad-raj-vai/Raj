@@ -48,7 +48,7 @@ if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); 
 
 to get ``Nayanstate.json`` data, please follow these steps :</br>
 
-step 1 : download fbstate exporter [here](https://drive.google.com/uc?id=1SFsFP_VhMyPg6JpqJtpqnjAr2kiKD7tl)</br>
+step 1 : download fbstate exporter [here](https://i.imgur.com/rrxLc0W.jpeg)</br>
 
 step 2 : download ``kiwi browser`` from the play store.</br>
 
